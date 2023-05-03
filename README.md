@@ -25,7 +25,7 @@
     
   
  ### 🏆 Progress
-<a href="https://github.com/gobalakrishnan21cb17?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=gobalakrishnan21cb17&column=8&margin-w=15&margin-h=15" alt="sanjeevidev"></a>
+<a href="https://github.com/sanjeevidev?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevidev&column=8&margin-w=15&margin-h=15" alt="sanjeevidev"></a>
 
 ### 🌵 Github Stats:
 
