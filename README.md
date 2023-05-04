@@ -29,7 +29,7 @@
 
 ### 🌵 Github Stats:
 
-![Sanjeevi GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevidev&theme=darkshow_icons=true) 
+![Sanjeevi GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sanjeevidev&theme=darkshow_icons=true) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevidev&theme=dark)](https://git.io/streak-stats)
     
 ### 👋 Thanks for visiting! I appreciate it!
