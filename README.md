@@ -42,7 +42,7 @@
 ## 🚀 Reach me:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sanjeevi-kumar-9656ba24b/"><img src="https://img.shields.io/badge/-sanjeevi-kumar-9656ba24b5?style=flat&logo=Linkedin&logoColor=white"/></a>    
-<a href="mailto:sanjeevikumar116@gmail.com"><img src="https://img.shields.io/badge/-sanjeevikumar116@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/crizsanju2004"><img src="https://img.shields.io/badge/-crizsanju2004-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanjeevi-kumar-9656ba24b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sanjeevikumar116@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/crizsanju2004"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
