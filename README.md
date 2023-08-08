@@ -34,6 +34,7 @@
 
 ![Sanjeevi GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sanjeevidev&theme=darkshow_icons=true) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevidev&theme=dark)](https://git.io/streak-stats)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64d2712a958c39fd1f829e5d?variant=dark" alt="roadmap.sh"/></a>
     
 ### 👋 Thanks for visiting! I appreciate it!
 
