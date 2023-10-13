@@ -27,10 +27,10 @@
     <a href="#"><img alt="FIFA" src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white"></a>
     <a href="#"><img alt="STEAM" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
- ### 🏆 Progress
- 
+### 📛 Badges
+[![An image of @sanjeevidev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanjeevidev)](https://holopin.io/@sanjeevidev)
+### 🏆 Progress
 <a href="https://github.com/sanjeevidev?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevidev&column=8&margin-w=15&margin-h=15" alt="sanjeevidev"></a>
-
 ### 🌵 Github Stats:
 
 ![Sanjeevi GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sanjeevidev&theme=darkshow_icons=true) 
