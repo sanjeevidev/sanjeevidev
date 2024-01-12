@@ -9,7 +9,6 @@
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20px" width="65px"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="20px" ></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"height="20px" width="65px"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -35,7 +34,7 @@
 
 ![Sanjeevi GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sanjeevidev&theme=darkshow_icons=true) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevidev&theme=dark)](https://git.io/streak-stats)
-![Roadmap Stats](https://api.roadmap.sh/v1-badge/wide/64d2712a958c39fd1f829e5d?variant=dark&roadmaps=python%2Cfrontend)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanjeevidev&theme=dracula)](https://git.io/streak-stats)
     
 ### 👋 Thanks for visiting! I appreciate it!
 
