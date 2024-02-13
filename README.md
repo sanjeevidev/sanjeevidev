@@ -33,9 +33,9 @@
 ### 🌵 Github Stats:
 
 ![Sanjeevi GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sanjeevidev&theme=darkshow_icons=true) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanjeevidev&theme=gotham)](https://git.io/streak-stats)
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sanjeevidev&theme=gotham" alt="GitHub Streak" /></a>-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sanjeevidev&theme=dracula)](https://git.io/streak-stats)
-    
 ### 👋 Thanks for visiting! I appreciate it!
 
 <br/>
