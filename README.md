@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Sanjeevi Kumar 🚀
 
-- 💻 Software Developer | UI Designer | Django and Flask Developer 
+- 💻 Software Developer | Open Source COntributor | UI Designer | Django and Flask Developer 
 - 👯 Interested in Project Collabration
 - 🎯 **Learning GitHub Actions**
 - 🎉 Favourite quote:- "Don't give Second Chance for the same mistake "
